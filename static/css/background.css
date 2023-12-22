@@ -1,5 +1,6 @@
 body{
   background-image:url("../img/background.png");
-  background-size: 100% 100%;
+  background-size: 100vw 100vh;
+  background-position: centre;
   background-repeat: no-repeat;
 }
