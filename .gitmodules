@@ -1,0 +1,3 @@
+[submodule "external-ATRI"]
+	path = external-ATRI
+	url = https://github.com/pan-wangxyspeaking/file-ATRI.git
