@@ -1,3 +1,6 @@
 [submodule "external-ATRI"]
 	path = external-ATRI
 	url = https://github.com/pan-wangxyspeaking/file-ATRI.git
+[submodule "external-mofashaonvlunadezainan"]
+	path = external-mofashaonvlunadezainan
+	url = https://github.com/pan-wangxyspeaking/file-mofashaonclunadezainan.git
